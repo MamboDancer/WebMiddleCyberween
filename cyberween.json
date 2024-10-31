@@ -1,0 +1,20 @@
+{
+    "event": "Cyberween",
+    "guests" : [
+        {
+            "name": "Cyber Shaman",
+            "age": "593",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/drakula.jpg"
+        },
+        {
+            "name": "Neon Coder",
+            "age": "203",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/frankenstein.jpg"
+        },
+        {
+            "name": "Hacker Pilot",
+            "age": "121",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/baba_yaga.jpg"
+        }
+    ]
+}
