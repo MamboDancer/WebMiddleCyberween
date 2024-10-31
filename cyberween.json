@@ -4,17 +4,17 @@
         {
             "name": "Cyber Shaman",
             "age": "593",
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/drakula.jpg"
+            "photo_url": "https://raw.githubusercontent.com/MamboDancer/WebMiddleCyberween/main/cybershaman.webp"
         },
         {
             "name": "Neon Coder",
             "age": "203",
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/frankenstein.jpg"
+            "photo_url": "https://raw.githubusercontent.com/MamboDancer/WebMiddleCyberween/main/neoncoder.webp"
         },
         {
             "name": "Hacker Pilot",
             "age": "121",
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/baba_yaga.jpg"
+            "photo_url": "https://raw.githubusercontent.com/MamboDancer/WebMiddleCyberween/main/hackerpilot.webp"
         }
     ]
 }
